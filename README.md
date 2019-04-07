@@ -1,0 +1,2 @@
+# purescriptgo
+go&lt;-purescript
